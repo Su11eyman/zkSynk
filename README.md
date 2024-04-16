@@ -15,7 +15,7 @@ pip install -r requirements.txt
 Place your private keys in private_keys.txt and domain names in names.txt.
 Configure settings in the config.py file.
 
-# executio
+# execution
 
 ```python
 python3 minter.py
